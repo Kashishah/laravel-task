@@ -1,0 +1,12 @@
+01 AUg 2024
+
+--> Add functionality in roles and permission module login person can't edit or delete the detail of themselves. 10.30 to 1.00
+--> Find the problem in api data project discuss with nimesh sir about it and solve the problem 2.00 to 4.00
+--> nimesh sir gave me a task regarding the task discussion with nimesh sir 4.00 to 8.00
+--> Start a task at 4.00 PM to 8.00 PM task is not complete
+
+
+02 Aug 2024
+
+--> today clock in at 10.25 Continue with the yesterday's task task was completed 305
+--> task is Continue
