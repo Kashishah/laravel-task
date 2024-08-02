@@ -6,7 +6,7 @@
 
 @section('body')
     <div class="mt-5">
-        <table class="table table-striped">
+        <table class="table table-bordered table-striped">
             <thead>
                 <tr>
                     <th>Name</th>
